@@ -14,7 +14,7 @@ button{
    background-color: #10B981; 
    color: white;
    border: none;
-   padding: 12px 12px;
+   padding: 12px;
    border-radius: 4%;
    margin-bottom: 30px;
 }
@@ -23,7 +23,9 @@ button{
 /*classes and id*/
 .container{
     width: 400px;
-    margin: 0 auto;
+    margin: 40 auto;
+    border: solid 3px white;
+    padding: 30px 40px;
 }
 
 p, .title{
